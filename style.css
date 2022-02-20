@@ -1,0 +1,38 @@
+
+.container{
+width: 95%;
+}
+
+.header{
+    background-color: rgb(211, 163, 30);
+    padding: 10px;
+    height: 50px;
+    width: 100%;
+}
+
+.box_main{
+display: flex;
+background-color: #12312d;
+width: 100%;
+height: auto;
+padding: 10px;
+
+}
+.box_item{
+    padding: 20px;
+    width: 250px;
+    background-color: #fff;
+    border: 1px solid #12312d;
+}
+.box_item_center{
+    padding: 20px;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #12312d;
+}
+.footer{
+    background-color: rgb(97, 8, 30);
+    padding: 10px;
+    height: 50px;
+    width: 100%;
+}
